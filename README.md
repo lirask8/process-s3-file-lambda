@@ -14,4 +14,4 @@ You need to have installed `git`, `aws-cli`, `ssh`.
 
 
 ##### This code was deployed and tested in AWS
-![lambda](https://public-images-ols3.s3.us-east-2.amazonaws.com/aws_lambda.png)
+![lambda](https://public-images-ols3.s3.us-east-2.amazonaws.com/aws_lambda_ses.png)
