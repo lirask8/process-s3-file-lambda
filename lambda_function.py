@@ -23,5 +23,5 @@ def lambda_handler(event, context):
         'body': summary,
     }
 
-
-#lambda_handler("event", {})
+# RUN FUNCTION
+lambda_handler("event", {})
